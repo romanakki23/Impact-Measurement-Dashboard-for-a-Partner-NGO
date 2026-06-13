@@ -17,14 +17,6 @@ This project was developed for **Challenge 5.1 — Impact Measurement Dashboard 
 
 ---
 
-## Dashboard Snapshots
-
-![Dashboard Preview](image.png)
-
-![Dashboard Preview](image-1.png)
-
----
-
 ## What the Dashboard Delivers
 
 - Executive KPI focused on **Cost-per-Impacted Student**
